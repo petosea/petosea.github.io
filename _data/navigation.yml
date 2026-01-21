@@ -8,21 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Knowledge"
+    url: https://github.com/petosea/Knowledge
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Tech-Stack"
+    url: https://github.com/petosea/Tech-Stack    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Engineering"
+    url: https://github.com/petosea/Engineering    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Research"
+    url: https://github.com/petosea/Research
+          
   - title: "CV"
     url: /cv/
     
