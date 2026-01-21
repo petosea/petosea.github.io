@@ -22,10 +22,10 @@ repository               : "petosea/petosea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "何政洋"
   pronouns         : # example: "she/her"  
-  bio              : "硕士研究生 | 机械装备与智能系统研究者 | 飞行爱好者"
+  bio              : "硕士研究生 | 机械装备与智能系统研究者 | 航空爱好者"
   location         : "Shanghai, China"
   employer         : "上海交通大学"
   uri              : # URL
