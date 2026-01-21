@@ -1,64 +1,75 @@
 ---
 permalink: /about/
-title: "欢迎光临何政洋的个人学术主页"
+title: "He Zhengyang's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /
----
 
 ---
 
-## 🎯 一、前言！我是谁？
+## I. Introduction
 
-👋尊敬的学者同志们，大家好！我是**何政洋**，男，2002年5月生，共青团员，来自内蒙古巴彦淖尔。非常高兴您访问我的个人学术主页！
+I am **He Zhengyang**, a Master's student in Mechanical Engineering at Shanghai Jiao Tong University. My research interests focus on ultra-precision manufacturing equipment, under the supervision of Prof. Tong Zhen. I received my bachelor's degree in mechanical engineering from Sichuan University.
 
-🎓我本科毕业于四川大学，取得工学学士学位。现在是一名硕士研究生，就读于上海交通大学机械与动力工程学院制造与装备自动化研究所。研究方向为精密与超精密制造装备，导师为童振教授。
+Beyond my primary research in mechanical systems, my scholarly interests span multiple disciplines, allowing me to maintain a comprehensive perspective on contemporary scientific and technological developments. This website serves as a repository for my research notes, technical documentation, and public materials on subjects within my areas of expertise.
 
-💻我兴趣爱好广泛。除了机械做为我核心研究领域外，在很多方面都有所涉猎。在这里，我将分享所有我所涉猎的、能公开的知识和技术，以及我正在进行的工程研发相关内容。
-
-✉️ 如果您有任何问题，可以发送邮件：[Z.Y.HE@sjtu.edu.cn](mailto:Z.Y.HE@sjtu.edu.cn)，感谢您不吝赐教。
+For questions, suggestions, or just to chat about shared interests, feel free to reach out at [Z.Y.HE@sjtu.edu.cn](mailto:Z.Y.HE@sjtu.edu.cn). I would be happy to hear from you.
 
 ---
 
-## 📚 三、这里有什么？
+## II. Repository Contents
 
-我的仓库中公开以下内容，您可以根据需要自由浏览和使用：
+This repository is organized into the following sections, reflecting the interconnected nature of knowledge, technology, research, and engineering practice:
 
-### 📄 **1、个人简历**
-如果您想了解我的详细经历、教育背景、项目经验和所获荣誉，欢迎查看我的完整简历：
-- 📖 [查看完整简历 CV](/cv/) - 包含详细的教育经历、项目经验、技能背景和所获荣誉
+### 📚 Knowledge
+Knowledge is a systematic endeavor to explain the world and ourselves, addressing the fundamental question of "why." This section contains study notes and materials across multiple disciplines:
+- **Philosophy & Natural Sciences**: Foundational theories in mathematics, physics, chemistry, and system science
+- **Social Sciences**: Materials on economics, management, policy, and organizational systems
+- **Formal Sciences**: Mathematical frameworks and their applications to various domains
+- **Systems Science**: Cross-disciplinary perspectives on complex systems and their interactions
 
-### 📚 **2、“知识”专题**
-在这里，您将看到我所有可以公开的学习笔记和部分教材内容，主要包括以下几个方面：
-- 📰 [哲学](/publications/) - 包括马克思主义哲学、古典哲学等相关内容。
-- 🎓 [科学](/talks/) - 包括社会科学、自然科学、形式科学和系统科学。社会科学包括政治学与法学、
+Knowledge forms the theoretical foundation upon which technology and engineering are built.
 
-### 🚀 **3、“技术”专题**
-在这里，您将看到我所有可以公开的学习笔记和部分教材内容，主要包括以下几个方面：
-- 💼 [工学](/portfolio/) - 展示我参与的重要项目
-- 🏫 [农学](/teaching/) - 我分享的教学资源和学习材料
-- 🏫 [医学](/teaching/) - 我分享的教学资源和学习材料
+### 💻 Tech-Stack
+Technology answers the question "how to solve problems" through systematic methods and approaches. This section documents practical implementations and tools:
+- **Programming Languages & Frameworks**: Languages, libraries, and frameworks I have worked with
+- **Software Development Tools**: Development environments, version control, and deployment systems
+- **Technical Methodologies**: Best practices and design patterns for solving engineering problems
+- **Technical Documentation**: Applied technical knowledge encapsulated for direct use
 
-### 🔗 **4、“研究”专题**
-- 🐙 [GitHub 主页](https://github.com/petosea) - 我的代码和开源项目
-- 📊 [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) - 学术论文库
+Technology bridges the gap between theoretical knowledge and practical application, enabling problem-solving without requiring deep mastery of underlying theory.
 
+### 🔬 Research
+Research drives innovation through problem-oriented inquiry, addressing gaps in both knowledge and practical solutions:
+- **Knowledge Research**: Investigating unanswered "why" questions through theoretical analysis and experimentation
+- **Technical Research**: Developing new methodologies and approaches to solve practical "how" problems
+- **Research Papers & Findings**: Academic work documenting novel discoveries and solutions
+- **Problem Analysis**: Documentation of research methodology and findings
 
-### 🔗 **5、“工程”专题**
-- 🐙 [GitHub 主页](https://github.com/petosea) - 我的代码和开源项目
-- 📊 [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) - 学术
+Research represents the systematic pursuit of new knowledge and technical advancement.
+
+### 🔧 Engineering
+Engineering integrates existing knowledge and technologies to create practical solutions at scale:
+- **Mechanical Engineering**: Design and optimization of mechanical systems and ultra-precision equipment
+- **Systems Integration**: Approaches to combining multiple technologies for coherent solutions
+- **Technical Projects**: Applications of engineering principles to real-world problems
+- **Solution Architecture**: Design and implementation of integrated technical systems
+
+Engineering represents the highest form of cultural practice—the systematic application of knowledge and technology to transform the world.
+
+### 📄 CV
+A comprehensive curriculum vitae detailing my educational background, research experience, technical skills, and academic achievements.
+
 ---
 
-## 🎁 四、关于你
+## III. Collaboration & Engagement
 
-> 最好的学习方式是与他人分享和讨论。通过交流，我们能够看到不同的角度，获得新的灵感，一起进步。
+I believe that scientific progress is fundamentally collaborative. Through scholarly dialogue and knowledge exchange, we can access diverse perspectives and advance collective understanding.
 
-无论您是学者、工程师、学生，还是对我的工作感兴趣的任何人，**我都希望能与您成为朋友**，在学习和成长的道路上相伴同行。
+Whether you are a researcher, engineer, student, or someone with interests aligned to my work, I am always open to meaningful academic collaboration and professional correspondence.
 
 ---
-
-
 
 <div style="text-align: center; color: #888; font-size: 12px; margin-top: 40px;">
-最后更新：2026年1月 | ©何政洋 | 于中国上海
+Last Updated: January 2026 |  He Zhengyang | Shanghai, China
 </div>
