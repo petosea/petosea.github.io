@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "何政洋的学术主页"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "He Zhengyang's Academic Homepage"
 title_separator          : "-"
-name                     : &name "何政洋"
-description              : &description "机械装备与智能系统研究者，飞行爱好者"
+name                     : &name "He Zhengyang"
+description              : &description "Researcher in Mechanical Equipment and Intelligent Systems, Aviation Enthusiast"
 url                      : https://petosea.github.io
 baseurl                  : ""
 repository               : "petosea/petosea.github.io"
@@ -23,11 +23,11 @@ repository               : "petosea/petosea.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "何政洋"
+  name             : "He Zhengyang(何政洋)"
   pronouns         : # example: "she/her"  
-  bio              : "硕士研究生 | 机械装备与智能系统研究者 | 航空爱好者"
+  bio              : "Master's Student | Mechanical Equipment & Intelligent Systems Researcher | Aviation Enthusiast"
   location         : "Shanghai, China"
-  employer         : "上海交通大学"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "Z.Y.HE@sjtu.edu.cn" 
 
